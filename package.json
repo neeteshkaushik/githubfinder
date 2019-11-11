@@ -1,0 +1,15 @@
+{
+  "name": "githubfinder",
+  "version": "1.0.0",
+  "description": "a web app that finds userprofile",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Neetesh Kaushik",
+  "license": "ISC",
+  "homepage": "https://neeteshkaushik.github.io/githubfinder",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
